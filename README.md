@@ -22,10 +22,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://mayankmaheshwar.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mayankmaheshwar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mayankmaheshwaricodes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:mayank.maheshwari625@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://mayankmaheshwar.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-mayankmaheshwar.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/mayankmaheshwar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mayank%20maheshwar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/mayankmaheshwaricodes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mayankmaheshwaricodes-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:mayank.maheshwari625@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mayank.maheshwari625@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Mayank Maheshwari](https://github.com/mayankmaheshwar)
