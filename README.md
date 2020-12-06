@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Django | Java | C/C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | AngularJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Ubuntu | Visual Studio Code
 
