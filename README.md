@@ -10,10 +10,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Django | Docker | C/C++ | Machine Learning
+- 💻 &nbsp; Python | Django | Docker |  | Machine Learning | Databricks
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Ubuntu | Visual Studio Code | AWS
+- 🛢 &nbsp; MySQL | MongoDB | Hive
+- 🔧 &nbsp; Git | Ubuntu | Visual Studio Code | AWS | GCP
 
 <br/>
 
