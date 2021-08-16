@@ -4,16 +4,16 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing softwares is my passion.
 - 🎓 &nbsp; 2020 B.Tech-IT graduated from SRM University, India.
-- 💼 &nbsp; Working as a System Engineer Specialist at Infosys, India.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 💼 &nbsp; Working as a Data Engineer at Infosys, India.
+- 🌱 &nbsp; Learning more about Cloud Architecture, BigData System and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Hacking and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Django | Docker |  | Machine Learning | Databricks
+- 💻 &nbsp; Python | Django | Docker |  | PysSpark | Databricks
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs
 - 🛢 &nbsp; MySQL | MongoDB | Hive
-- 🔧 &nbsp; Git | Ubuntu | Visual Studio Code | AWS | GCP
+- 🔧 &nbsp; Git | Ubuntu | Visual Studio Code | AWS | GCP | Azure
 
 <br/>
 
