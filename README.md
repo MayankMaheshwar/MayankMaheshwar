@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Django | Flask | PysSpark | Databricks
+- 💻 &nbsp; Python | Django | Flask | PySpark | Databricks | DSA 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs
 - 🛢 &nbsp; MySQL | MongoDB | Hive | BigQuery
 - 🔧 &nbsp; Git | Ubuntu | Visual Studio Code | AWS | GCP | Azure | Docker
