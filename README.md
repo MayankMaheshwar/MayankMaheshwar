@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing softwares is my passion.
 - 🎓 &nbsp; 2020 B.Tech-IT graduated from SRM University, India.
-- 💼 &nbsp; Working as a Data Engineer at Infosys, India.
-- 🌱 &nbsp; Learning more about Cloud Architecture, BigData System and Artificial Intelligence.
+- 💼 &nbsp; Working as a Software Engineer (BigData) at Infosys, India.
+- 🌱 &nbsp; Learning more about Software Engineering and Data Engineering.
 - ✍️ &nbsp; Pursuing Hacking and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
