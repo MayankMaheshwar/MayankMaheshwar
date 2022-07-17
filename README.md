@@ -4,15 +4,15 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing softwares is my passion.
 - 🎓 &nbsp; 2020 B.Tech-IT graduated from SRM University, India.
-- 💼 &nbsp; Working as a Software Engineer (BigData) at Infosys, India.
+- 💼 &nbsp; Working as a Software Engineer at Kyro (Startup), India.
 - 🌱 &nbsp; Learning more about Software Engineering and Data Engineering.
 - ✍️ &nbsp; Pursuing Hacking and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Django | Flask | PySpark | Databricks | DSA 
+- 💻 &nbsp; Python | Django | Fastapi | System Design | Databricks | DSA 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs
-- 🛢 &nbsp; MySQL | MongoDB | Hive | BigQuery
+- 🛢 &nbsp; MySQL | MongoDB | Hive | Dynamodb
 - 🔧 &nbsp; Git | Ubuntu | Visual Studio Code | AWS | GCP | Azure | Docker
 
 <br/>
