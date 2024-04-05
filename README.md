@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing softwares is my passion.
+- 🤔 &nbsp; Exploring new technologies and developing software is my passion.
 - 🎓 &nbsp; 2020 B.Tech-IT graduated from SRM University, India.
-- 💼 &nbsp; Working as a Software Engineer at Kyro (Startup), India.
-- 🌱 &nbsp; Learning more about Software Engineering and Data Engineering.
+- 💼 &nbsp; Working as a Senior Software Engineer at Blkbox.ai (Startup), Remotely.
+- 🌱 &nbsp; Learning extensively about Software Engineering and Data Engineering.
 - ✍️ &nbsp; Pursuing Hacking and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
