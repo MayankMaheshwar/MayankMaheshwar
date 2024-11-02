@@ -8,13 +8,6 @@
 - 🌱 &nbsp; Learning extensively about Software Engineering and Data Engineering.
 - ✍️ &nbsp; Pursuing Hacking and Blog Writing as hobbies/side hustles.
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Django | Fastapi | System Design | Databricks | DSA 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs
-- 🛢 &nbsp; MySQL | MongoDB | Hive | Dynamodb
-- 🔧 &nbsp; Git | Ubuntu | Visual Studio Code | AWS | GCP | Azure | Docker
-
 <br/>
 
 [![mayankmaheshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankmaheshwar&show_icons=true)](https://github.com/mayankmaheshwar)
