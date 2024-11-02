@@ -4,9 +4,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software is my passion.
 - 🎓 &nbsp; 2020 B.Tech-IT graduated from SRM University, India.
-- 💼 &nbsp; Working as a Senior Software Engineer at Blkbox.ai (Startup), Remotely.
-- 🌱 &nbsp; Learning extensively about Software Engineering and Data Engineering.
-- ✍️ &nbsp; Pursuing Hacking and Blog Writing as hobbies/side hustles.
+- 💼 &nbsp; Working as an SDE-2 at OLA Krutrim AI, Bangalore.
+- 🌱 &nbsp; Learning extensively about Software Engineering and AI/Data Engineering.
+- ✍️ &nbsp; Pursuing Content Creation and Blog Writing as hobbies/side hustles.
 
 <br/>
 
