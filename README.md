@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software is my passion.
+- 🤔 &nbsp; I am passionate about Exploring new technologies and developing software.
 - 🎓 &nbsp; 2020 B.Tech-IT graduated from SRM University, India.
 - 💼 &nbsp; Working as an SDE-2 at OLA Krutrim AI, Bangalore.
 - 🌱 &nbsp; Learning extensively about Software Engineering and AI/Data Engineering.
